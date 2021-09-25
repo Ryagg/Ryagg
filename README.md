@@ -39,7 +39,8 @@ I'm Scott, a psychologist from Germany making a career change towards Full Stack
 <img src="https://github-readme-stats.vercel.app/api?username=ryagg&show_icons=true&theme=nord" alt="ryagg" />
 
   <br />
- 
+<!--
 ### 📈 My Tweets:
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=scottboening&layout=wide)](https://github.com/gazf/github-readme-twitter) 
+-->
