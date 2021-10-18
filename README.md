@@ -16,10 +16,12 @@ I'm Scott, a psychologist from Germany making a career change towards Full Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=plastic&logo=flask)
+![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=plastic&logo=Jinja&logoColor=B41717)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=plastic&logo=Balsamiq&logoColor=FFFFFF)
 
 
 ### Contact me:
