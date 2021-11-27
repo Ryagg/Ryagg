@@ -3,7 +3,7 @@
 I'm Scott, a psychologist from Germany making a career change towards Full Stack Software Development. I enjoy making ideas come true with a strong focus on user experience and accessibility.
 
 - 🔭 I’m currently working on my Diploma in Full Stack Software Development @codeinstitute
-- 🌱 I’m currently learning Flask and mongoDB
+- 🌱 I’m currently learning Django and Tailwind
 - 👯 I’m looking to collaborate on open source
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge fan of Star Trek and Harry Potter
