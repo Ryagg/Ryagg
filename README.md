@@ -36,9 +36,9 @@ I'm Scott, a Junior Full Stack Software Developer from Germany. I'm passionate a
 <a href="https://twitter.com/scottboening">
   <img align="left" alt="Scott Boening | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<!-- <a href="https://www.linkedin.com/in/ADDUSERNAME/">
+<a href="https://www.linkedin.com/in/scott-boening-junior-software-developer/">
   <img align="left" alt="Scott's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
+</a>
 
 <br />
 
