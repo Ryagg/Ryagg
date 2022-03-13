@@ -12,32 +12,51 @@ I'm Scott, a Junior Full Stack Software Developer from Germany. I'm passionate a
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge fan of Star Trek and Harry Potter
 
-### Languages and Tools:
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+### Programming Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=fff)
-![Bulma](https://img.shields.io/badge/-Bulma-181717?style=plastic&logo=bulma)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=plastic&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-1e415e?style=plastic&logo=Python&logoColor=ffe873)
+![Java](https://img.shields.io/badge/-Java-e40000?&style=plastic&logo=java&logoColor=fff)
+
+### Frameworks | Libraries
+![Bulma](https://img.shields.io/badge/-Bulma-181717?style=plastic&logo=bulma)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=fff)
 ![Django](https://img.shields.io/badge/-Django-0c4b33?style=plastic&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-181717?style=plastic&logo=flask)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=plastic&logo=Jinja&logoColor=B41717)
-![Java](https://img.shields.io/badge/-Java-e40000?&style=plastic&logo=java&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=plastic&logo=mongodb)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
+![jQuery](https://img.shields.io/badge/-jQuery-0769ad?style=plastic&logo=jquery&logoColor=78cff5)
+
+### Version Control | Coding
 ![Git](https://img.shields.io/badge/-Git-181717?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=plastic&logo=Balsamiq&logoColor=FFFFFF)
-![Slack](https://img.shields.io/badge/-Slack-181717?style=plastic&logo=slack)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=plastic&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-32668f?style=plastic&logo=postgresql&logoColor=fff)
+
+### Testing
+![PyTest](https://img.shields.io/badge/-Pytest-696969?style=plastic&logo=pytest)
+
+### Hosting | SaaS
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=plastic&logo=heroku)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232f3e?style=plastic&logo=amazon-aws&logoColor=eb912d)
+
+### Social
+![Slack](https://img.shields.io/badge/-Slack-4a154b?style=plastic&logo=slack)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=plastic&logo=linkedin)
+![Twitter](https://img.shields.io/badge/-Twitter-181717?style=plastic&logo=twitter)
+
+### Wireframes
+![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=plastic&logo=Balsamiq&logoColor=FFFFFF)
 
 ### Contact me:
 <a href="https://twitter.com/scottboening">
   <img align="left" alt="Scott Boening | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/scott-boening-junior-software-developer/">
-  <img align="left" alt="Scott's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Scott's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
