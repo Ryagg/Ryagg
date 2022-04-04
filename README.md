@@ -4,10 +4,10 @@
                     
 ### Hello World, 👋
 
-I'm Scott, a Junior Full Stack Software Developer from Germany. I'm passionate about backend development and enjoy making software as secure and robust as possible.
+I'm Scott, a Junior Full Stack Software Developer from Germany. I'm passionate about back end development and enjoy making software as secure and robust as possible.
 
 - 🔭 I’m a graduate of <a href="https://codeinstitute.net/de/full-stack-software-development-diploma/">code institute's Full Stack Software Development course</a> and received my diploma with a merit grade
-- 🌱 I’m currently learning Django and Software Testing. I'm also preparing for the PCEP – Certified Entry-Level Python Programmer Certification from the Python  Institute
+- 🌱 I’m currently learning Playwright and Software Testing. I'm also preparing for the PCEP – Certified Entry-Level Python Programmer Certification from the Python  Institute
 - 👯 I’m looking to collaborate on open source
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge fan of Star Trek and Harry Potter
