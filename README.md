@@ -61,6 +61,10 @@ I'm Scott, a Junior Full Stack Software Developer from Germany. I'm passionate a
 
 <br />
 
+### My codewars progress:
+
+<img src="https://www.codewars.com/users/Ryagg/badges/small"/>
+
 ### 📈 My github stats:
 
 <p align="left"> 
