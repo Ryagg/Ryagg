@@ -26,6 +26,7 @@ I'm Scott, a Junior Full Stack Software Developer from Germany. I'm passionate a
 ![Flask](https://img.shields.io/badge/-Flask-181717?style=plastic&logo=flask)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=plastic&logo=Jinja&logoColor=B41717)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769ad?style=plastic&logo=jquery&logoColor=78cff5)
+![Stripe](https://img.shields.io/badge/-Stripe-646EDE?style=plastic&logo=html5&logoColor=fff)
 
 ### Version Control | Coding
 ![Git](https://img.shields.io/badge/-Git-181717?style=plastic&logo=git)
