@@ -12,6 +12,9 @@ I'm Scott, a Junior Full Stack Software Developer from Germany. I'm passionate a
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge fan of Star Trek and Harry Potter
 
+### My portfolio page:
+[scott.sbftp.dev](https://scott.sbftp.dev/)
+
 ### Programming Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
