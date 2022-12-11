@@ -17,9 +17,9 @@ I'm Scott, a Junior Full Stack Software Developer from Germany. I'm passionate a
 ### Programming Languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=plastic&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-1e415e?style=plastic&logo=Python&logoColor=ffe873)
 ![Java](https://img.shields.io/badge/-Java-e40000?&style=plastic&logo=java&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-1e415e?style=plastic&logo=Python&logoColor=ffe873)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=plastic&logo=javascript)
 
 ### Frameworks | Libraries
 ![Bulma](https://img.shields.io/badge/-Bulma-181717?style=plastic&logo=bulma)
