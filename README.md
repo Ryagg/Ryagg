@@ -7,7 +7,7 @@
 I'm Scott, a Junior Full Stack Software Developer from Germany. I'm passionate about back end development and enjoy making software as secure and robust as possible.
 
 - 🔭 I’m a graduate of <a href="https://codeinstitute.net/de/full-stack-software-development-diploma/">code institute's Full Stack Software Development course</a> and received my diploma with a merit grade
-- 🌱 I’m currently learning Docker and React. I'm also preparing for the PCEP – Certified Entry-Level Python Programmer Certification from the Python  Institute
+- 🌱 I’m currently refreshing and deepening my knowledge about OO in Java and microservices architecture. 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge fan of Star Trek and Harry Potter
 
