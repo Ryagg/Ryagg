@@ -76,7 +76,7 @@ I'm Scott, a Junior Full Stack Software Developer from Germany. I'm passionate a
 <p align="left"> 
 <img src="https://github-readme-stats.vercel.app/api?username=ryagg&show_icons=true&theme=nord" alt="ryagg" />
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryagg&hide=TeX&layout=compact&theme=nord) 
+![Top Langs](https://github-readme-stats-sigma-three-36.vercel.app/api/top-langs/?username=ryagg&count_private=true&show_icons=true&hide=TeX&layout=compact&theme=nord) 
   <br />
 
  
