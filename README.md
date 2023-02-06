@@ -4,7 +4,7 @@
                     
 ### Hello World, 👋
 
-I'm Scott, a Junior Full Stack Software Developer from Germany. I'm passionate about back end development and enjoy making software as secure and robust as possible.
+I'm Scott, a Junior Full Stack Software Developer from Germany living in Dublin. I'm passionate about back end development and enjoy making software as secure and robust as possible.
 
 - 🔭 I’m a graduate of <a href="https://codeinstitute.net/de/full-stack-software-development-diploma/">code institute's Full Stack Software Development course</a> and received my diploma with a merit grade
 - 🌱 I’m currently refreshing and deepening my knowledge about OO in Java and microservices architecture. 
