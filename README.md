@@ -61,7 +61,7 @@ I'm Scott, a Junior Full Stack Software Developer from Germany living in Dublin.
 <a href="https://twitter.com/scottboening">
   <img align="left" alt="Scott Boening | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/scott-boening-junior-software-developer/">
+<a href="https://www.linkedin.com/in/scott-boening/">
   <img align="left" alt="Scott's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
