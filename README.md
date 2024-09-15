@@ -4,12 +4,12 @@
                     
 ### Hello World, 👋
 
-I'm Scott, a Junior Full Stack Software Developer from Germany living in Dublin. I'm passionate about back end development and enjoy making software as secure and robust as possible.
+I'm Scott, a **Technical Support Engineer** with a background in **Full Stack Software Development**. I specialize in troubleshooting complex technical issues, providing customer support in SaaS environments, and continuously work on expanding my knowledge. 
 
-- 🔭 I’m a graduate of <a href="https://codeinstitute.net/de/full-stack-software-development-diploma/">code institute's Full Stack Software Development course</a> and received my diploma with a merit grade
-- 🌱 I’m currently refreshing and deepening my knowledge about OO in Java and microservices architecture. 
+- I’m a graduate of <a href="https://codeinstitute.net/de/full-stack-software-development-diploma/">code institute's Full Stack Software Development course</a> and received my diploma with a merit grade
+- 🌱 I'm currently expanding my skills in **Software Testing and Automation** through a Coursera specialization
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a huge fan of Star Trek and Harry Potter
+- ⚡ Fun fact: I'm a huge rugby fan. Go Leinster!
 
 ### My portfolio page:
 [scott.sbftp.dev](https://scott.sbftp.dev/)
