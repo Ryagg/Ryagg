@@ -4,10 +4,14 @@
                     
 ### Hello World, 👋
 
-I'm Scott, a **Technical Support Engineer** with a background in **Full Stack Software Development**. I specialize in troubleshooting complex technical issues, providing customer support in SaaS environments, and continuously work on expanding my knowledge. 
+I'm Scott, a **Technical Support Engineer** with a background in **Full Stack Software Development** and a strong interest in identity and access management (IAM). 
+
+As a Technical Support Engineer at Salesforce, I specialize in diagnosing and resolving technical issues for MuleSoft customers in EMEA and APAC while ensuring timely and accurate case resolution.
+
+I am most engaged when I'm learning something new, solving problems, or helping others succeed. I bring empathy, structure, and deep focus to every task.
 
 - I’m a graduate of <a href="https://codeinstitute.net/de/full-stack-software-development-diploma/">code institute's Full Stack Software Development course</a> and received my diploma with a merit grade
-- 🌱 I'm currently expanding my skills in **Software Testing and Automation** through a Coursera specialization
+- 🌱 I'm currently preparing for the Certified in Cybersecurity (CC) exam by ISC²
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge rugby fan. Go Leinster!
 
@@ -52,17 +56,13 @@ I'm Scott, a **Technical Support Engineer** with a background in **Full Stack So
 ### Social
 ![Slack](https://img.shields.io/badge/-Slack-4a154b?style=plastic&logo=slack)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=plastic&logo=linkedin)
-![Twitter](https://img.shields.io/badge/-Twitter-181717?style=plastic&logo=twitter)
 
 ### Wireframes
 ![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=plastic&logo=Balsamiq&logoColor=FFFFFF)
 
 ### Contact me:
-<a href="https://twitter.com/scottboening">
-  <img align="left" alt="Scott Boening | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/scott-boening/">
-  <img align="left" alt="Scott's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Scott's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
 <br />
@@ -78,9 +78,3 @@ I'm Scott, a **Technical Support Engineer** with a background in **Full Stack So
   
 ![Top Langs](https://github-readme-stats-sigma-three-36.vercel.app/api/top-langs/?username=ryagg&count_private=true&show_icons=true&hide=TeX&layout=compact&theme=nord) 
   <br />
-
- 
-### 📈 My Tweets:
-
-
-[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=scottboening&layout=wide)](https://twitter.com/scottboening)
