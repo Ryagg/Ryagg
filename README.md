@@ -4,14 +4,14 @@
                     
 ### Hello World, 👋
 
-I'm Scott, a **Technical Support Engineer** with a background in **Full Stack Software Development** and a strong interest in identity and access management (IAM). 
+I'm Scott, a **Technical Support Engineer** with a background in **Full Stack Software Development** and a strong interest in Software Testing and Quality Assurance. 
 
 As a Technical Support Engineer at Salesforce, I specialize in diagnosing and resolving technical issues for MuleSoft customers in EMEA and APAC while ensuring timely and accurate case resolution.
 
 I am most engaged when I'm learning something new, solving problems, or helping others succeed. I bring empathy, structure, and deep focus to every task.
 
 - I’m a graduate of <a href="https://codeinstitute.net/de/full-stack-software-development-diploma/">code institute's Full Stack Software Development course</a> and received my diploma with a merit grade
-- 🌱 I'm currently preparing for the Certified in Cybersecurity (CC) exam by ISC²
+- 🌱 I'm currently preparing for the ISTQB CTFL certification.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge rugby fan. Go Leinster!
 
