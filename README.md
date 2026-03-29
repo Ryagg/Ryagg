@@ -4,11 +4,11 @@
                     
 ### Hello World, 👋
 
-I'm Scott, a **Technical Support Engineer** with a background in Full Stack Software Development and a strong focus on troubleshooting complex systems, APIs, and integrations.
+I'm Scott, a **Technical Support Engineer** with a background in Full Stack Software Development and a strong focus on analyzing complex systems and API-based environments.
 
-At Salesforce (MuleSoft), I work with enterprise customers across EMEA and APAC, analyzing technical issues using logs, API requests, and system behavior to identify root causes and drive resolution.
+At Salesforce (MuleSoft), I work with enterprise-scale systems, examining logs, API requests, and system behavior to investigate technical issues and isolate underlying causes.
 
-I enjoy working at the intersection of technical analysis and customer communication — breaking down complex problems and making them understandable and actionable.
+I enjoy breaking down complex system behavior, understanding how components interact, and working through problems in a structured and analytical way.
 
 ### 🧠 Background
 - Diploma in Full Stack Software Development (Code Institute, Merit)
